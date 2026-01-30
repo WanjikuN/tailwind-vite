@@ -6,7 +6,7 @@
   ```
 2. Install Tailwindcss with Vite
   ```
- Install Tailwind CSS- npm install tailwindcss @tailwindcss/vite
+npm install tailwindcss @tailwindcss/vite
   ```
 3.Configure the Vite plugin
   ```
